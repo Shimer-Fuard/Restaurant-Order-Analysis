@@ -71,6 +71,16 @@ This project analyzes restaurant order data and provide valuable insights throug
   
   │-- 📄 README.md # Project documentation
 ## 🔗 **How to Use**
+Use the web link(https://app.powerbi.com/view?r=eyJrIjoiZmExZDA5N2ItMjkxZS00ZmRiLWJjNzItOTkzMmI3MTcyMzRjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=fdfe3d5b002870d3470c) to view the report online, or download the .pbix file to access and edit it using Power BI Desktop.
+This report contains two interactive pages:
+  1.Overall Analysis
+  2.Menu Category Analysis
+Page Navigation - On the top-right corner of the Overall Analysis page, there is a button labeled “! Click Here for Category Wise analysis”.
+On the Menu Category Analysis page, you’ll find a button in the top-right corner labeled “! Click Here for Category Overall analysis”.These navigation buttons allow users to seamlessly switch between the two pages for better exploration of insights.
+
+🔁 Page Navigation
+On the top-right corner of the Overall Analysis page, there is a button labeled “! Click Here for Category Wise analysis”.
+On the Menu Category Analysis page, you’ll find a button in the top-right corner labeled “! Click Here for Category Overall analysis”.
 1. Download the dataset from [this link](#).
 2. Run the SQL queries from the `scripts/` folder to extract insights.
 3. Open the Power BI file (`reports/sales_dashboard.pbix`) to view dashboards.
