@@ -71,25 +71,23 @@ This project analyzes restaurant order data and provide valuable insights throug
   
   │-- 📄 README.md # Project documentation
 ## 🔗 **How to Use**
-Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiZmExZDA5N2ItMjkxZS00ZmRiLWJjNzItOTkzMmI3MTcyMzRjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=fdfe3d5b002870d3470c) to view the report online, or download the [RestaurantOrderAnalysis.pbix](RestaurantOrderAnalysis.pbix) file to access and edit it using Power BI Desktop.
-This report contains two interactive pages:
+- Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiZmExZDA5N2ItMjkxZS00ZmRiLWJjNzItOTkzMmI3MTcyMzRjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=fdfe3d5b002870d3470c) to view the report online, or download the [RestaurantOrderAnalysis.pbix](RestaurantOrderAnalysis.pbix) file to access and edit it using Power BI Desktop.
+- This report contains two interactive pages:
 
   1.Overall Analysis
-  
   2.Menu Category Analysis
   
-To page navigation,On the top-right corner of the Overall Analysis page, there is a button labeled “! Click Here for Category Wise analysis”.
+- To page navigation,On the top-right corner of the Overall Analysis page, there is a button labeled “! Click Here for Category Wise analysis”.
 On the Menu Category Analysis page, you’ll find a button in the top-right corner labeled “! Click Here for Category Overall analysis”.These navigation buttons allow users to seamlessly switch between the two pages for better exploration of insights.
+- Use the attached [RestaurantOrderAnalysis.pdf](RestaurantOrderAnalysis.pdf) file to read a detailed overview of the report and share it easily with others
 
-Use the attached [RestaurantOrderAnalysis.pdf](RestaurantOrderAnalysis.pdf) file to read a detailed overview of the report and share it easily with others
 
----
 
 ## 📌 **Future Improvements**
 - Add machine learning models for sales forecasting.
 - Include customer segmentation analysis.
 
----
+
 
 ## 📜 **References**
 - Kaggle Dataset: [Sales Data](#)
