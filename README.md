@@ -13,10 +13,15 @@ This project analyzes restaurant order data and provide valuable insights throug
 - Sales Metrics: Trends in total sales and purchased items by day and month, supporting timebased strategies.
 - Category Contribution: Sales contributions segmented by food category, highlighting performance strengths.
 ## 🗂 **Dataset Information**
-- **Source:** Kaggle Sales Dataset  
-- **Records:** 50,000 transactions  
-- **Time Period:** 2019-2024  
-- **Columns:** Date, Product, Category, Sales, Profit, Region, etc.
+- **Data Source:** Maven Analytics(https://app.mavenanalytics.io/guided-projects/d7167b45-6317-49c9-b2bb-42e2a9e9c0bc)  
+- **File Type:** CSV 
+- **Time Period:** 2023/01/31 - 2023/03/31 
+- **File Size:** 406 KB
+- **Number of Table:** 2
+  - Order Details Table - 404 KB / Number of Fields(5)
+  - Menu Items - 2 KB / Number of Fields(4) 
+- **Number of Record:** 12266 (Number of Orders)
+
 ## ⚒ **Tools & Technologies Used**
 - Power BI (Data Modeling/Data Visualization)  
 - Power Query (Data Extracting/Data Cleaning)
