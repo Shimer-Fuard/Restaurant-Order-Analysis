@@ -71,7 +71,7 @@ This project analyzes restaurant order data and provide valuable insights throug
   
   │-- 📄 README.md # Project documentation
 ## 🔗 **How to Use**
-Use the web link(https://app.powerbi.com/view?r=eyJrIjoiZmExZDA5N2ItMjkxZS00ZmRiLWJjNzItOTkzMmI3MTcyMzRjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=fdfe3d5b002870d3470c) to view the report online, or download the .pbix file to access and edit it using Power BI Desktop.
+Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiZmExZDA5N2ItMjkxZS00ZmRiLWJjNzItOTkzMmI3MTcyMzRjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=fdfe3d5b002870d3470c) to view the report online, or download the .pbix file to access and edit it using Power BI Desktop.
 This report contains two interactive pages:
   1.Overall Analysis
   2.Menu Category Analysis
