@@ -81,14 +81,7 @@ This report contains two interactive pages:
 To page navigation,On the top-right corner of the Overall Analysis page, there is a button labeled “! Click Here for Category Wise analysis”.
 On the Menu Category Analysis page, you’ll find a button in the top-right corner labeled “! Click Here for Category Overall analysis”.These navigation buttons allow users to seamlessly switch between the two pages for better exploration of insights.
 
-Use the attached PDF() file to read a detailed overview of the report and share it easily with others
-
-🔁 Page Navigation
-On the top-right corner of the Overall Analysis page, there is a button labeled “! Click Here for Category Wise analysis”.
-On the Menu Category Analysis page, you’ll find a button in the top-right corner labeled “! Click Here for Category Overall analysis”.
-1. Download the dataset from [this link](#).
-2. Run the SQL queries from the `scripts/` folder to extract insights.
-3. Open the Power BI file (`reports/sales_dashboard.pbix`) to view dashboards.
+Use the attached [RestaurantOrderAnalysis.pdf](RestaurantOrderAnalysis.pdf) file to read a detailed overview of the report and share it easily with others
 
 ---
 
