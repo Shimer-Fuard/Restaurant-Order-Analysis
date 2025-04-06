@@ -59,6 +59,7 @@ This project analyzes restaurant order data and provide valuable insights throug
 
 ![Dashboard Preview](MenuCategoryAnalysis.png) 
 ## 🏗 **Project Structure**
+<pre style="background: #fff; padding: 0; border: none; font-family: monospace;">
 📂 sales-performance-analysis/ 
 
   │-- 📁 RawData/ # Contains raw and processed datasets 
@@ -78,6 +79,7 @@ This project analyzes restaurant order data and provide valuable insights throug
   │-- 📁 RestaurantOrderAnalysis.pbix/ # Power BI Report 
 
   │-- 📁 RestaurantOrderAnalysis.pdf/ # Report PDF Format 
+</pre>
 ## 🔗 **How to Use**
 - Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiZmExZDA5N2ItMjkxZS00ZmRiLWJjNzItOTkzMmI3MTcyMzRjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=fdfe3d5b002870d3470c) to view the report online, or download the [RestaurantOrderAnalysis.pbix](RestaurantOrderAnalysis.pbix) file to access and edit it using Power BI Desktop.
 - This report contains two interactive pages:
@@ -100,4 +102,16 @@ On the Menu Category Analysis page, you’ll find a button in the top-right corn
 ## 📜 **References**
 - Kaggle Dataset: [Sales Data](#)
 - Power BI Documentation: [Learn More](https://learn.microsoft.com/power-bi/)
+
+
+<pre style="background: none; padding: 0; border: none; font-family: monospace;">
+project-folder/
+├── data/
+│   ├── raw/
+│   └── processed/
+├── scripts/
+│   └── analysis.py
+└── README.md
+</pre>
+
 
