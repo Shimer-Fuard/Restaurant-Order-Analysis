@@ -13,7 +13,7 @@ This project analyzes restaurant order data and provide valuable insights throug
 - Sales Metrics: Trends in total sales and purchased items by day and month, supporting timebased strategies.
 - Category Contribution: Sales contributions segmented by food category, highlighting performance strengths.
 ## 🗂 **Dataset Information**
-- **Data Source:** Maven Analytics(https://app.mavenanalytics.io/guided-projects/d7167b45-6317-49c9-b2bb-42e2a9e9c0bc)  
+- **Data Source:** Maven Analytics (https://app.mavenanalytics.io/guided-projects/d7167b45-6317-49c9-b2bb-42e2a9e9c0bc)  
 - **File Type:** CSV 
 - **Time Period:** 2023/01/31 - 2023/03/31 
 - **File Size:** 406 KB
@@ -71,12 +71,17 @@ This project analyzes restaurant order data and provide valuable insights throug
   
   │-- 📄 README.md # Project documentation
 ## 🔗 **How to Use**
-Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiZmExZDA5N2ItMjkxZS00ZmRiLWJjNzItOTkzMmI3MTcyMzRjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=fdfe3d5b002870d3470c) to view the report online, or download the .pbix file to access and edit it using Power BI Desktop.
+Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiZmExZDA5N2ItMjkxZS00ZmRiLWJjNzItOTkzMmI3MTcyMzRjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=fdfe3d5b002870d3470c) to view the report online, or download the [RestaurantOrderAnalysis.pbix](RestaurantOrderAnalysis.pbix) file to access and edit it using Power BI Desktop.
 This report contains two interactive pages:
+
   1.Overall Analysis
+  
   2.Menu Category Analysis
-Page Navigation - On the top-right corner of the Overall Analysis page, there is a button labeled “! Click Here for Category Wise analysis”.
+  
+To page navigation,On the top-right corner of the Overall Analysis page, there is a button labeled “! Click Here for Category Wise analysis”.
 On the Menu Category Analysis page, you’ll find a button in the top-right corner labeled “! Click Here for Category Overall analysis”.These navigation buttons allow users to seamlessly switch between the two pages for better exploration of insights.
+
+Use the attached PDF() file to read a detailed overview of the report and share it easily with others
 
 🔁 Page Navigation
 On the top-right corner of the Overall Analysis page, there is a button labeled “! Click Here for Category Wise analysis”.
