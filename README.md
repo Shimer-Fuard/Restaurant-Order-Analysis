@@ -61,15 +61,21 @@ This project analyzes restaurant order data and provide valuable insights throug
 ## 🏗 **Project Structure**
 📂 sales-performance-analysis/ 
 
-  │-- 📁 data/ # Contains raw and processed datasets 
+  │-- 📁 RawData/ # Contains raw and processed datasets 
+        |-- menu_items.csv
+        |-- order_details.csv
   
-  │-- 📁 scripts/ # SQL queries & Python scripts 
+  │-- 📁 LICENSE/ # License Details 
   
-  │-- 📁 reports/ # Power BI & Tableau dashboards 
+  │-- 📁 MenuCategoryAnalysis.png/ # Report image 
   
-  │-- 📁 images/ # Dashboard screenshots 
+  │-- 📁 OverallAnalysis.png/ # Report image 
   
   │-- 📄 README.md # Project documentation
+
+  │-- 📁 RestaurantOrderAnalysis.pbix/ # Power BI Report 
+
+  │-- 📁 RestaurantOrderAnalysis.pdf/ # Report PDF Format 
 ## 🔗 **How to Use**
 - Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiZmExZDA5N2ItMjkxZS00ZmRiLWJjNzItOTkzMmI3MTcyMzRjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=fdfe3d5b002870d3470c) to view the report online, or download the [RestaurantOrderAnalysis.pbix](RestaurantOrderAnalysis.pbix) file to access and edit it using Power BI Desktop.
 - This report contains two interactive pages:
