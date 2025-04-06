@@ -104,14 +104,4 @@ On the Menu Category Analysis page, you’ll find a button in the top-right corn
 - Power BI Documentation: [Learn More](https://learn.microsoft.com/power-bi/)
 
 
-<pre style="background: none; padding: 0; border: none; font-family: monospace;">
-project-folder/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── scripts/
-│   └── analysis.py
-└── README.md
-</pre>
-
 
