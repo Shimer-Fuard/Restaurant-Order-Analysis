@@ -100,7 +100,7 @@ On the Menu Category Analysis page, you’ll find a button in the top-right corn
 
 
 ## 📜 **References**
-- Kaggle Dataset: [Sales Data](#)
+- Maven Analytics: [Dataset]([#](https://app.mavenanalytics.io/guided-projects/d7167b45-6317-49c9-b2bb-42e2a9e9c0bc))
 - Power BI Documentation: [Learn More](https://learn.microsoft.com/power-bi/)
 
 
