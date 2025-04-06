@@ -44,8 +44,9 @@ This project analyzes restaurant order data and provide valuable insights throug
   - Incorporate feedback to refine visualizations or analysis.
 
 ## 📊 **Dashboard Preview**
-![Dashboard Preview](images/dashboard_preview.png)  
+![Dashboard Preview](OverallAnalysis.png)  
 
+![Dashboard Preview](MenuCategoryAnalysis.png) 
 ## 🏗 **Project Structure**
 📂 sales-performance-analysis/ 
 
