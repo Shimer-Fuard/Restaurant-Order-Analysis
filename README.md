@@ -1,4 +1,12 @@
 # Restaurant Order Analysis
+## Live Report
+**View the live interactive Power BI report here:**
+[Click to Open Report]([https://app.powerbi.com/view?r=eyJrIjoiEXAMPLELINK"](https://app.powerbi.com/view?r=eyJrIjoiZmExZDA5N2ItMjkxZS00ZmRiLWJjNzItOTkzMmI3MTcyMzRjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=fdfe3d5b002870d3470c))  
+*(Hosted on Power BI Service)*
+<a href="https://app.powerbi.com/view?r=eyJrIjoiEXAMPLELINK" target="_blank">
+  <img src="[https://img.shields.io/badge/Live%20Report-Power%20BI-yellow?style=for-the-badge&logo=powerbi](https://app.powerbi.com/view?r=eyJrIjoiZmExZDA5N2ItMjkxZS00ZmRiLWJjNzItOTkzMmI3MTcyMzRjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&pageName=fdfe3d5b002870d3470c)" />
+</a>
+
 ## 📌 **Project Overview**
 This project analyzes restaurant order data and provide valuable insights through interactive visualizations in Power BI, assisting in strategic decision making for operational improvement.
 ## 📊 **Key Insights**
