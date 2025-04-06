@@ -62,7 +62,9 @@ This project analyzes restaurant order data and provide valuable insights throug
 📂 sales-performance-analysis/ 
 
   │-- 📁 RawData/ # Contains raw and processed datasets 
+  
         |-- menu_items.csv
+        
         |-- order_details.csv
   
   │-- 📁 LICENSE/ # License Details 
